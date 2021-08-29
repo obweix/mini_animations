@@ -1,6 +1,6 @@
 # mini_animations
 
-A new Flutter plugin.
+精简了官方提供的animations插件，用于学习
 
 ## Getting Started
 
